@@ -1,0 +1,1 @@
+export { default } from './Rating_and_Reviews.jsx';
